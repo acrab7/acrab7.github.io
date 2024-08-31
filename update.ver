@@ -11,8 +11,42 @@ date=28.07.2024
 platform=x86
 group=perseus,ra,core
 buildregname=EngineBuild
-file=em002_32_l0.nup
+file=http://parsmig.ir/update/http://parsmig.ir/update/em002_32_l0.nup
 size=87019291
+nuv=9.00.0
+
+
+[ENGINE1]
+version=29631 (20240728)
+versionid=29631
+build=62306
+type=engine
+category=engine
+level=1
+base=62304
+date=28.07.2024
+platform=x86
+group=perseus,ra,core
+buildregname=EngineBuild
+file=http://parsmig.ir/update/em002_32_l1.nup
+size=7083
+nuv=9.00.0
+
+
+[ENGINE2]
+version=29788 (20240826)
+versionid=29788
+build=62620
+type=engine
+category=engine
+level=2
+base=62306
+date=26.08.2024
+platform=x86
+group=perseus,ra,core
+buildregname=EngineBuild
+file=http://parsmig.ir/update/em002_32_l2.nup
+size=1005483
 nuv=9.00.0
 
 
@@ -28,7 +62,7 @@ date=03.11.2023
 platform=x86
 group=perseus,ra,core,loader,eslc
 buildregname=LoaderBuild
-file=em000_32_l0.nup
+file=http://parsmig.ir/update/em000_32_l0.nup
 size=210861
 nuv=9.00.0
 
@@ -45,59 +79,25 @@ date=03.11.2023
 platform=x64
 group=perseus,ra,core,loader,eslc
 buildregname=Loader64Build
-file=em000_64_l0.nup
+file=http://parsmig.ir/update/em000_64_l0.nup
 size=243363
 nuv=9.00.0
 
 
 [PERSEUS0]
-version=1607.4 (20240123)
-versionid=1607
-build=2405
+version=1615.1 (20240815)
+versionid=1615
+build=2441
 type=perseus
 category=engine
 level=0
 base=268435456
-date=23.01.2024
+date=15.08.2024
 platform=x86
 group=perseus,ra,core,eslc
 buildregname=PerseusBuild
-file=em001_32_l0.nup
-size=1387659
-nuv=9.00.0
-
-
-[PERSEUS1]
-version=1614 (20240716)
-versionid=1614
-build=2436
-type=perseus
-category=engine
-level=1
-base=2405
-date=16.07.2024
-platform=x86
-group=perseus,ra,core,eslc
-buildregname=PerseusBuild
-file=em001_32_l1.nup
-size=371660
-nuv=9.00.0
-
-
-[PERSEUS2]
-version=1614.1 (20240718)
-versionid=1614
-build=2438
-type=perseus
-category=engine
-level=2
-base=2436
-date=18.07.2024
-platform=x86
-group=perseus,ra,core,eslc
-buildregname=PerseusBuild
-file=em001_32_l2.nup
-size=30533
+file=http://parsmig.ir/update/em001_32_l0.nup
+size=1389154
 nuv=9.00.0
 
 
@@ -113,7 +113,7 @@ date=29.07.2024
 platform=x86
 group=perseus,core
 buildregname=ArchivesBuild
-file=em003_32_l0.nup
+file=http://parsmig.ir/update/em003_32_l0.nup
 size=1854159
 nuv=9.00.0
 
@@ -130,42 +130,25 @@ date=10.06.2024
 platform=x86
 group=perseus,core
 buildregname=AdvheurBuild
-file=em004_32_l0.nup
+file=http://parsmig.ir/update/em004_32_l0.nup
 size=2699564
 nuv=9.00.0
 
 
 [CLEANER0]
-version=1246 (20240118)
-versionid=1246
-build=1396
+version=1251.1 (20240813)
+versionid=1251
+build=1402
 type=cleaner
 category=engine
 level=0
 base=268435456
-date=18.01.2024
+date=13.08.2024
 platform=x86
 group=perseus,core
 buildregname=CleanerBuild
-file=em005_32_l0.nup
-size=498154
-nuv=9.00.0
-
-
-[CLEANER1]
-version=1250 (20240527)
-versionid=1250
-build=1400
-type=cleaner
-category=engine
-level=1
-base=1396
-date=27.05.2024
-platform=x86
-group=perseus,core
-buildregname=CleanerBuild
-file=em005_32_l1.nup
-size=91092
+file=http://parsmig.ir/update/em005_32_l0.nup
+size=548535
 nuv=9.00.0
 
 
@@ -181,7 +164,7 @@ date=01.04.2016
 platform=x86
 group=perseus,win
 buildregname=AntistealthBuild
-file=em006_32_l0.nup
+file=http://parsmig.ir/update/em006_32_l0.nup
 size=96343
 nuv=9.00.0
 
@@ -198,7 +181,7 @@ date=04.07.2023
 platform=x86
 group=perseus,win
 buildregname=AntistealthBuild
-file=em006_32_l1.nup
+file=http://parsmig.ir/update/em006_32_l1.nup
 size=87935
 nuv=9.00.0
 
@@ -215,7 +198,7 @@ date=09.10.2023
 platform=x86
 group=perseus,win
 buildregname=AntistealthBuild
-file=em006_32_l2.nup
+file=http://parsmig.ir/update/em006_32_l2.nup
 size=13234
 nuv=9.00.0
 
@@ -232,7 +215,7 @@ date=08.09.2020
 platform=x64
 group=perseus,win
 buildregname=Antistealth64Build
-file=em006_64_l0.nup
+file=http://parsmig.ir/update/em006_64_l0.nup
 size=114974
 nuv=9.00.0
 
@@ -249,7 +232,7 @@ date=09.10.2023
 platform=x64
 group=perseus,win
 buildregname=Antistealth64Build
-file=em006_64_l1.nup
+file=http://parsmig.ir/update/em006_64_l1.nup
 size=75750
 nuv=9.00.0
 
@@ -266,7 +249,7 @@ date=19.11.2021
 platform=x86
 group=epfw,ra,netprot
 buildregname=EpfwBuild
-file=em008_32_l0.nup
+file=http://parsmig.ir/update/em008_32_l0.nup
 size=680418
 nuv=9.00.0
 
@@ -283,7 +266,7 @@ date=14.01.2022
 platform=x86
 group=epfw,ra,netprot
 buildregname=EpfwBuild
-file=em008_32_l1.nup
+file=http://parsmig.ir/update/em008_32_l1.nup
 size=57278
 nuv=9.00.0
 
@@ -300,7 +283,7 @@ date=14.01.2022
 platform=x64
 group=epfw,ra,netprot
 buildregname=Epfw64Build
-file=em008_64_l0.nup
+file=http://parsmig.ir/update/em008_64_l0.nup
 size=835427
 nuv=9.00.0
 
@@ -317,7 +300,7 @@ date=06.04.2016
 platform=x86
 group=systemstatus
 buildregname=SystemstatusBuild
-file=em009_32_l0.nup
+file=http://parsmig.ir/update/em009_32_l0.nup
 size=1474713
 nuv=9.00.0
 
@@ -334,7 +317,7 @@ date=24.10.2023
 platform=x86
 group=systemstatus
 buildregname=SystemstatusBuild
-file=em009_32_l1.nup
+file=http://parsmig.ir/update/em009_32_l1.nup
 size=723302
 nuv=9.00.0
 
@@ -351,7 +334,7 @@ date=22.05.2020
 platform=x64
 group=systemstatus
 buildregname=Systemstatus64Build
-file=em009_64_l0.nup
+file=http://parsmig.ir/update/em009_64_l0.nup
 size=1903106
 nuv=9.00.0
 
@@ -368,7 +351,7 @@ date=24.10.2023
 platform=x64
 group=systemstatus
 buildregname=Systemstatus64Build
-file=em009_64_l1.nup
+file=http://parsmig.ir/update/em009_64_l1.nup
 size=872593
 nuv=9.00.0
 
@@ -385,7 +368,7 @@ date=24.01.2012
 platform=x86
 group=antispam
 buildregname=SmonBuild
-file=em010_32_l0.nup
+file=http://parsmig.ir/update/em010_32_l0.nup
 size=210879
 nuv=9.00.0
 
@@ -402,7 +385,7 @@ date=11.06.2013
 platform=x86
 group=antispam
 buildregname=SmonBuild
-file=em010_32_l1.nup
+file=http://parsmig.ir/update/em010_32_l1.nup
 size=81342
 nuv=9.00.0
 
@@ -419,7 +402,7 @@ date=03.11.2014
 platform=x86
 group=antispam
 buildregname=SmonBuild
-file=em010_32_l2.nup
+file=http://parsmig.ir/update/em010_32_l2.nup
 size=38562
 nuv=9.00.0
 
@@ -436,7 +419,7 @@ date=19.01.2011
 platform=x86
 group=ra
 buildregname=RaBuild
-file=em011_32_l0.nup
+file=http://parsmig.ir/update/em011_32_l0.nup
 size=977697
 nuv=9.00.0
 
@@ -453,7 +436,7 @@ date=28.01.2011
 platform=x86
 group=ra
 buildregname=RaBuild
-file=em011_32_l1.nup
+file=http://parsmig.ir/update/em011_32_l1.nup
 size=13603
 nuv=9.00.0
 
@@ -470,7 +453,7 @@ date=04.02.2011
 platform=x86
 group=ra
 buildregname=RaBuild
-file=em011_32_l2.nup
+file=http://parsmig.ir/update/em011_32_l2.nup
 size=2798
 nuv=9.00.0
 
@@ -487,7 +470,7 @@ date=24.10.2008
 platform=x86
 group=perseus
 buildregname=SelfdefenseBuild
-file=em013_32_l0.nup
+file=http://parsmig.ir/update/em013_32_l0.nup
 size=27355
 nuv=9.00.0
 
@@ -504,7 +487,7 @@ date=28.07.2010
 platform=x86
 group=perseus
 buildregname=SelfdefenseBuild
-file=em013_32_l1.nup
+file=http://parsmig.ir/update/em013_32_l1.nup
 size=39664
 nuv=9.00.0
 
@@ -521,7 +504,7 @@ date=12.08.2010
 platform=x86
 group=perseus
 buildregname=SelfdefenseBuild
-file=em013_32_l2.nup
+file=http://parsmig.ir/update/em013_32_l2.nup
 size=12732
 nuv=9.00.0
 
@@ -538,7 +521,7 @@ date=24.10.2008
 platform=x64
 group=perseus
 buildregname=Selfdefense64Build
-file=em013_64_l0.nup
+file=http://parsmig.ir/update/em013_64_l0.nup
 size=29883
 nuv=9.00.0
 
@@ -555,7 +538,7 @@ date=28.07.2010
 platform=x64
 group=perseus
 buildregname=Selfdefense64Build
-file=em013_64_l1.nup
+file=http://parsmig.ir/update/em013_64_l1.nup
 size=37702
 nuv=9.00.0
 
@@ -572,7 +555,7 @@ date=12.08.2010
 platform=x64
 group=perseus
 buildregname=Selfdefense64Build
-file=em013_64_l2.nup
+file=http://parsmig.ir/update/em013_64_l2.nup
 size=14382
 nuv=9.00.0
 
@@ -589,7 +572,7 @@ date=31.10.2017
 platform=x86
 group=mailserver
 buildregname=MailserverBuild
-file=em014_32_l0.nup
+file=http://parsmig.ir/update/em014_32_l0.nup
 size=24089
 nuv=9.00.0
 
@@ -606,7 +589,7 @@ date=13.02.2019
 platform=x86
 group=mailserver
 buildregname=MailserverBuild
-file=em014_32_l1.nup
+file=http://parsmig.ir/update/em014_32_l1.nup
 size=10422
 nuv=9.00.0
 
@@ -623,7 +606,7 @@ date=20.02.2019
 platform=x86
 group=mailserver
 buildregname=MailserverBuild
-file=em014_32_l2.nup
+file=http://parsmig.ir/update/em014_32_l2.nup
 size=4066
 nuv=9.00.0
 
@@ -640,7 +623,7 @@ date=06.08.2015
 platform=x86
 group=amon,ra,win
 buildregname=AmonBuild
-file=em015_32_l0.nup
+file=http://parsmig.ir/update/em015_32_l0.nup
 size=7130
 nuv=9.00.0
 
@@ -657,7 +640,7 @@ date=12.11.2015
 platform=x86
 group=amon,ra,win
 buildregname=AmonBuild
-file=em015_32_l1.nup
+file=http://parsmig.ir/update/em015_32_l1.nup
 size=8182
 nuv=9.00.0
 
@@ -674,7 +657,7 @@ date=23.02.2016
 platform=x86
 group=amon,ra,win
 buildregname=AmonBuild
-file=em015_32_l2.nup
+file=http://parsmig.ir/update/em015_32_l2.nup
 size=6253
 nuv=9.00.0
 
@@ -691,7 +674,7 @@ date=06.08.2015
 platform=x64
 group=amon,ra,win
 buildregname=Amon64Build
-file=em015_64_l0.nup
+file=http://parsmig.ir/update/em015_64_l0.nup
 size=8517
 nuv=9.00.0
 
@@ -708,7 +691,7 @@ date=12.11.2015
 platform=x64
 group=amon,ra,win
 buildregname=Amon64Build
-file=em015_64_l1.nup
+file=http://parsmig.ir/update/em015_64_l1.nup
 size=10493
 nuv=9.00.0
 
@@ -725,7 +708,7 @@ date=23.02.2016
 platform=x64
 group=amon,ra,win
 buildregname=Amon64Build
-file=em015_64_l2.nup
+file=http://parsmig.ir/update/em015_64_l2.nup
 size=7576
 nuv=9.00.0
 
@@ -742,8 +725,25 @@ date=08.07.2024
 platform=x86
 group=translator,core,ra
 buildregname=TranslatorBuild
-file=em017_32_l0.nup
+file=http://parsmig.ir/update/em017_32_l0.nup
 size=8267736
+nuv=9.00.0
+
+
+[TRANSLATOR1]
+version=2016 (20240722)
+versionid=2016
+build=2126
+type=translator
+category=engine
+level=1
+base=2125
+date=22.07.2024
+platform=x86
+group=translator,core,ra
+buildregname=TranslatorBuild
+file=http://parsmig.ir/update/em017_32_l1.nup
+size=45586
 nuv=9.00.0
 
 
@@ -759,8 +759,25 @@ date=08.07.2024
 platform=x64
 group=translator,core,ra
 buildregname=Translator64Build
-file=em017_64_l0.nup
+file=http://parsmig.ir/update/em017_64_l0.nup
 size=8316321
+nuv=9.00.0
+
+
+[TRANSLATOR641]
+version=2016 (20240722)
+versionid=2016
+build=2126
+type=translator64
+category=engine
+level=1
+base=2125
+date=22.07.2024
+platform=x64
+group=translator,core,ra
+buildregname=Translator64Build
+file=http://parsmig.ir/update/em017_64_l1.nup
+size=47797
 nuv=9.00.0
 
 
@@ -776,7 +793,7 @@ date=09.09.2021
 platform=x86
 group=hips
 buildregname=HipsBuild
-file=em018_32_l0.nup
+file=http://parsmig.ir/update/em018_32_l0.nup
 size=481448
 nuv=9.00.0
 
@@ -793,7 +810,7 @@ date=10.09.2021
 platform=x86
 group=hips
 buildregname=HipsBuild
-file=em018_32_l1.nup
+file=http://parsmig.ir/update/em018_32_l1.nup
 size=10319
 nuv=9.00.0
 
@@ -810,7 +827,7 @@ date=03.03.2022
 platform=x86
 group=hips
 buildregname=HipsBuild
-file=em018_32_l2.nup
+file=http://parsmig.ir/update/em018_32_l2.nup
 size=46470
 nuv=9.00.0
 
@@ -827,7 +844,7 @@ date=09.09.2021
 platform=x64
 group=hips
 buildregname=Hips64Build
-file=em018_64_l0.nup
+file=http://parsmig.ir/update/em018_64_l0.nup
 size=543712
 nuv=9.00.0
 
@@ -844,7 +861,7 @@ date=03.03.2022
 platform=x64
 group=hips
 buildregname=Hips64Build
-file=em018_64_l1.nup
+file=http://parsmig.ir/update/em018_64_l1.nup
 size=65868
 nuv=9.00.0
 
@@ -861,7 +878,7 @@ date=05.05.2020
 platform=x86
 group=protoscan,netprot
 buildregname=ProtoscanBuild
-file=em019_32_l0.nup
+file=http://parsmig.ir/update/em019_32_l0.nup
 size=678141
 nuv=9.00.0
 
@@ -878,7 +895,7 @@ date=18.08.2020
 platform=x86
 group=protoscan,netprot
 buildregname=ProtoscanBuild
-file=em019_32_l1.nup
+file=http://parsmig.ir/update/em019_32_l1.nup
 size=54798
 nuv=9.00.0
 
@@ -895,7 +912,7 @@ date=12.04.2016
 platform=x86
 group=parental
 buildregname=ParentalBuild
-file=em020_32_l0.nup
+file=http://parsmig.ir/update/em020_32_l0.nup
 size=92336
 nuv=9.00.0
 
@@ -912,7 +929,7 @@ date=28.02.2023
 platform=x86
 group=parental
 buildregname=ParentalBuild
-file=em020_32_l1.nup
+file=http://parsmig.ir/update/em020_32_l1.nup
 size=76464
 nuv=9.00.0
 
@@ -929,7 +946,7 @@ date=30.01.2024
 platform=x86
 group=parental
 buildregname=ParentalBuild
-file=em020_32_l2.nup
+file=http://parsmig.ir/update/em020_32_l2.nup
 size=18900
 nuv=9.00.0
 
@@ -946,7 +963,7 @@ date=19.12.2019
 platform=x86
 group=horus
 buildregname=HorusBuild
-file=em021_32_l0.nup
+file=http://parsmig.ir/update/em021_32_l0.nup
 size=1664468
 nuv=9.00.0
 
@@ -963,7 +980,7 @@ date=27.03.2024
 platform=x86
 group=horus
 buildregname=HorusBuild
-file=em021_32_l1.nup
+file=http://parsmig.ir/update/em021_32_l1.nup
 size=489975
 nuv=9.00.0
 
@@ -980,7 +997,7 @@ date=29.07.2024
 platform=x86
 group=horus
 buildregname=HorusBuild
-file=em021_32_l2.nup
+file=http://parsmig.ir/update/em021_32_l2.nup
 size=97143
 nuv=9.00.0
 
@@ -997,7 +1014,7 @@ date=19.04.2023
 platform=x86
 group=db,core
 buildregname=DbBuild
-file=em022_32_l0.nup
+file=http://parsmig.ir/update/em022_32_l0.nup
 size=378949
 nuv=9.00.0
 
@@ -1014,25 +1031,25 @@ date=08.07.2024
 platform=x86
 group=db,core
 buildregname=DbBuild
-file=em022_32_l1.nup
+file=http://parsmig.ir/update/em022_32_l1.nup
 size=128823
 nuv=9.00.0
 
 
 [PEGASUS0]
-version=24726 (20240801)
-versionid=24726
-build=37453
+version=24824 (20240819)
+versionid=24824
+build=37648
 type=pegasus
 category=engine
 level=0
 base=268435456
-date=01.08.2024
+date=19.08.2024
 platform=x86
-group=perseus,core
+group=perseus,core,netprotect
 buildregname=PegasusBuild
-file=em023_32_l0.nup
-size=57795421
+file=http://parsmig.ir/update/em023_32_l0.nup
+size=56287179
 nuv=9.00.0
 
 
@@ -1048,7 +1065,7 @@ date=29.03.2023
 platform=x86
 group=iris,parental,horus
 buildregname=IrisBuild
-file=em024_32_l0.nup
+file=http://parsmig.ir/update/em024_32_l0.nup
 size=639846
 nuv=9.00.0
 
@@ -1065,7 +1082,7 @@ date=30.05.2024
 platform=x86
 group=iris,parental,horus
 buildregname=IrisBuild
-file=em024_32_l1.nup
+file=http://parsmig.ir/update/em024_32_l1.nup
 size=192088
 nuv=9.00.0
 
@@ -1082,7 +1099,7 @@ date=03.06.2024
 platform=x86
 group=iris,parental,horus
 buildregname=IrisBuild
-file=em024_32_l2.nup
+file=http://parsmig.ir/update/em024_32_l2.nup
 size=18204
 nuv=9.00.0
 
@@ -1099,7 +1116,7 @@ date=23.05.2016
 platform=x64
 group=perseus,win,epfw,hips,amon
 buildregname=EhmBuild
-file=em028_64_l0.nup
+file=http://parsmig.ir/update/em028_64_l0.nup
 size=12578
 nuv=9.00.0
 
@@ -1116,7 +1133,7 @@ date=28.05.2019
 platform=x86
 group=w10upgrade
 buildregname=W10UpgradeBuild
-file=em041_32_l0.nup
+file=http://parsmig.ir/update/em041_32_l0.nup
 size=299689
 nuv=9.00.0
 
@@ -1133,7 +1150,7 @@ date=29.05.2024
 platform=x86
 group=w10upgrade
 buildregname=W10UpgradeBuild
-file=em041_32_l1.nup
+file=http://parsmig.ir/update/em041_32_l1.nup
 size=1556823
 nuv=9.00.0
 
@@ -1150,109 +1167,58 @@ date=04.06.2024
 platform=x86
 group=w10upgrade
 buildregname=W10UpgradeBuild
-file=em041_32_l2.nup
+file=http://parsmig.ir/update/em041_32_l2.nup
 size=2952
 nuv=9.00.0
 
 
-[ENGINE1]
-version=29631 (20240728)
-versionid=29631
-build=62306
-type=engine
-category=engine
-level=1
-base=62304
-date=28.07.2024
-platform=x86
-group=perseus,ra,core
-buildregname=EngineBuild
-file=em002_32_l1.nup
-size=7083
-nuv=9.00.0
-
-
-[ENGINE2]
-version=29683 (20240806)
-versionid=29683
-build=62410
-type=engine
-category=engine
-level=2
-base=62306
-date=06.08.2024
-platform=x86
-group=perseus,ra,core
-buildregname=EngineBuild
-file=em002_32_l2.nup
-size=389201
-nuv=9.00.0
-
-
 [PEGASUS1]
-version=24753 (20240806)
-versionid=24753
-build=37507
+version=24864 (20240826)
+versionid=24864
+build=37727
 type=pegasus
 category=engine
 level=1
-base=37453
-date=06.08.2024
+base=37648
+date=26.08.2024
 platform=x86
-group=perseus,core
+group=perseus,core,netprotect
 buildregname=PegasusBuild
-file=em023_32_l1.nup
-size=967174
+file=http://parsmig.ir/update/em023_32_l1.nup
+size=1179576
 nuv=9.00.0
 
 
-[TRANSLATOR1]
-version=2016 (20240722)
-versionid=2016
-build=2126
+[TRANSLATOR2]
+version=2017 (20240730)
+versionid=2017
+build=2127
 type=translator
 category=engine
-level=1
-base=2125
-date=22.07.2024
+level=2
+base=2126
+date=30.07.2024
 platform=x86
 group=translator,core,ra
 buildregname=TranslatorBuild
-file=em017_32_l1.nup
-size=45586
+file=http://parsmig.ir/update/em017_32_l2.nup
+size=51709
 nuv=9.00.0
 
 
-[TRANSLATOR641]
-version=2016 (20240722)
-versionid=2016
-build=2126
+[TRANSLATOR642]
+version=2017 (20240730)
+versionid=2017
+build=2127
 type=translator64
 category=engine
-level=1
-base=2125
-date=22.07.2024
+level=2
+base=2126
+date=30.07.2024
 platform=x64
 group=translator,core,ra
 buildregname=Translator64Build
-file=em017_64_l1.nup
-size=47797
-nuv=9.00.0
-
-
-[PEGASUS2]
-version=24756 (20240806)
-versionid=24756
-build=37513
-type=pegasus
-category=engine
-level=2
-base=37507
-date=06.08.2024
-platform=x86
-group=perseus,core
-buildregname=PegasusBuild
-file=em023_32_l2.nup
-size=72503
+file=http://parsmig.ir/update/em017_64_l2.nup
+size=60934
 nuv=9.00.0
 
