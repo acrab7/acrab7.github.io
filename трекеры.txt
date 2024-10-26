@@ -32,9 +32,9 @@ http://www.wareztorrent.com/announce
 
 https://www.wareztorrent.com/announce
 
-udp://zer0day.ch:1337/анонс
+udp://zer0day.ch:1337/Р°РЅРѕРЅСЃ
 
-udp://zer0day.to:1337/анонс
+udp://zer0day.to:1337/Р°РЅРѕРЅСЃ
 
 udp://tracker.zer0day.to:1337/announce
 
@@ -54,7 +54,7 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker2.wasabii.com.tw:6969/announce
 
-udp://tracker2.indowebster.com:6969/анонс
+udp://tracker2.indowebster.com:6969/Р°РЅРѕРЅСЃ
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -74,15 +74,15 @@ http://p4p.arenabg.ch:1337/announce
 
 http://p4p.arenabg.com:1337/announce
 
-udp://eddie4.nl:6969/анонс
+udp://eddie4.nl:6969/Р°РЅРѕРЅСЃ
 
-udp://p4p.arenabg.com:1337/анонс
+udp://p4p.arenabg.com:1337/Р°РЅРѕРЅСЃ
 
-udp://shadowshq.eddie4.nl:6969/анонс
+udp://shadowshq.eddie4.nl:6969/Р°РЅРѕРЅСЃ
 
-udp://tracker.eddie4.nl:6969/анонс
+udp://tracker.eddie4.nl:6969/Р°РЅРѕРЅСЃ
 
-udp://tracker4.piratux.com:6969/анонс
+udp://tracker4.piratux.com:6969/Р°РЅРѕРЅСЃ
 
 udp://eddie4.nl:6969/announce
 
@@ -90,9 +90,9 @@ http://5.79.249.77:6969/announce
 
 http://5.79.83.193:2710/announce
 
-udp://5.79.249.77:6969/анонс
+udp://5.79.249.77:6969/Р°РЅРѕРЅСЃ
 
-udp://5.79.83.193:6969/анонс
+udp://5.79.83.193:6969/Р°РЅРѕРЅСЃ
 
 udp://open6.demonii.com:1337
 
@@ -102,41 +102,41 @@ http://pow7.com:80/announce
 
 http://secure.pow7.com/announce
 
-udp://9.rarbg.com:2710/анонс
+udp://9.rarbg.com:2710/Р°РЅРѕРЅСЃ
 
-udp://9.rarbg.me:2780/анонс
+udp://9.rarbg.me:2780/Р°РЅРѕРЅСЃ
 
-udp://9.rarbg.to:2730/анонс
+udp://9.rarbg.to:2730/Р°РЅРѕРЅСЃ
 
 http://37.19.5.139:6969/announce
 
 http://37.19.5.155:6881/announce
 
-udp://37.19.5.155:2710/анонс
+udp://37.19.5.155:2710/Р°РЅРѕРЅСЃ
 
 http://46.4.109.148:6969/announce
 
-udp://46.4.109.148:6969/анонс
+udp://46.4.109.148:6969/Р°РЅРѕРЅСЃ
 
 http://51.254.244.161:6969/announce
 
-udp://51.254.244.161:6969/анонс
+udp://51.254.244.161:6969/Р°РЅРѕРЅСЃ
 
 http://59.36.96.77:6969/announce
 
-udp://62.138.0.158:6969/анонс
+udp://62.138.0.158:6969/Р°РЅРѕРЅСЃ
 
-udp://62.212.85.66:2710/анонс
+udp://62.212.85.66:2710/Р°РЅРѕРЅСЃ
 
 http://tracker.mg64.net:6881/announce
 
-udp://tracker.mg64.net:2710/анонс
+udp://tracker.mg64.net:2710/Р°РЅРѕРЅСЃ
 
-udp://tracker.mg64.net:6969/анонс
+udp://tracker.mg64.net:6969/Р°РЅРѕРЅСЃ
 
 http://74.82.52.209:6969/announce
 
-udp://74.82.52.209:6969/анонс
+udp://74.82.52.209:6969/Р°РЅРѕРЅСЃ
 
 http://80.246.243.18:6969/announce
 
@@ -156,15 +156,15 @@ http://tracker.openbittorrent.com:80/announce
 
 http://www.wareztorrent.com:80/announce
 
-udp://open.stealth.si:80/анонс
+udp://open.stealth.si:80/Р°РЅРѕРЅСЃ
 
-udp://torrent.gresille.org:80/анонс
+udp://torrent.gresille.org:80/Р°РЅРѕРЅСЃ
 
-udp://tracker.ex.ua:80/анонс
+udp://tracker.ex.ua:80/Р°РЅРѕРЅСЃ
 
-udp://tracker.ilibr.org:80/анонс
+udp://tracker.ilibr.org:80/Р°РЅРѕРЅСЃ
 
-udp://tracker.kicks-ass.net:80/анонс
+udp://tracker.kicks-ass.net:80/Р°РЅРѕРЅСЃ
 
 udp://open.stealth.si:80/announce
 
@@ -180,13 +180,13 @@ udp://tracker.trackerfix.com:83/announce
 
 http://85.17.19.180/announce
 
-udp://85.17.19.180:80/анонс
+udp://85.17.19.180:80/Р°РЅРѕРЅСЃ
 
 http://87.248.186.252:8080/announce
 
 http://87.253.152.137/announce
 
-udp://89.234.156.205:80/анонс
+udp://89.234.156.205:80/Р°РЅРѕРЅСЃ
 
 http://91.216.110.47/announce
 
@@ -194,11 +194,11 @@ http://91.217.91.21:3218/announce
 
 http://91.218.230.81:6969/announce
 
-udp://91.218.230.81:6969/анонс
+udp://91.218.230.81:6969/Р°РЅРѕРЅСЃ
 
 http://93.92.64.5/announce
 
-udp://94.23.183.33:6969/анонс
+udp://94.23.183.33:6969/Р°РЅРѕРЅСЃ
 
 http://104.28.1.30:8080/announce
 
@@ -208,29 +208,29 @@ https://104.28.17.69/announce
 
 http://107.150.14.110:6969/announce
 
-udp://107.150.14.110:6969/анонс
+udp://107.150.14.110:6969/Р°РЅРѕРЅСЃ
 
 http://109.121.134.121:1337/announce
 
-udp://109.121.134.121:1337/анонс
+udp://109.121.134.121:1337/Р°РЅРѕРЅСЃ
 
 http://114.55.113.60:6969/announce
 
-udp://114.55.113.60:6969/анонс
+udp://114.55.113.60:6969/Р°РЅРѕРЅСЃ
 
 http://125.227.35.196:6969/announce
 
 http://128.199.70.66:5944/announce
 
-udp://128.199.70.66:5944/анонс
+udp://128.199.70.66:5944/Р°РЅРѕРЅСЃ
 
-udp://151.80.120.114:2710/анонс
+udp://151.80.120.114:2710/Р°РЅРѕРЅСЃ
 
 http://157.7.202.64:8080/announce
 
 http://158.69.146.212:7777/announce
 
-udp://168.235.67.63:6969/анонс
+udp://168.235.67.63:6969/Р°РЅРѕРЅСЃ
 
 http://173.254.204.71:1096/announce
 
@@ -238,35 +238,35 @@ http://178.175.143.27/announce
 
 http://178.33.73.26:2710/announce
 
-udp://178.33.73.26:2710/анонс
+udp://178.33.73.26:2710/Р°РЅРѕРЅСЃ
 
 http://182.176.139.129:6969/announce
 
-udp://182.176.139.129:6969/анонс
+udp://182.176.139.129:6969/Р°РЅРѕРЅСЃ
 
 http://185.5.97.139:8089/announce
 
-udp://185.5.97.139:8089/анонс
+udp://185.5.97.139:8089/Р°РЅРѕРЅСЃ
 
-udp://185.86.149.205:1337/анонс
+udp://185.86.149.205:1337/Р°РЅРѕРЅСЃ
 
 http://188.165.253.109:1337/announce
 
-udp://188.165.253.109:1337/анонс
+udp://188.165.253.109:1337/Р°РЅРѕРЅСЃ
 
-udp://191.101.229.236:1337/анонс
+udp://191.101.229.236:1337/Р°РЅРѕРЅСЃ
 
 http://194.106.216.222/announce
 
-udp://194.106.216.222:80/анонс
+udp://194.106.216.222:80/Р°РЅРѕРЅСЃ
 
 http://195.123.209.37:1337/announce
 
-udp://195.123.209.37:1337/анонс
+udp://195.123.209.37:1337/Р°РЅРѕРЅСЃ
 
-udp://195.123.209.40:80/анонс
+udp://195.123.209.40:80/Р°РЅРѕРЅСЃ
 
-udp://208.67.16.113:8000/анонс
+udp://208.67.16.113:8000/Р°РЅРѕРЅСЃ
 
 http://210.244.71.25:6969/announce
 
@@ -274,13 +274,13 @@ http://210.244.71.26:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-udp://tracker.yoshi210.com:6969/анонс
+udp://tracker.yoshi210.com:6969/Р°РЅРѕРЅСЃ
 
 http://213.159.215.198:6970/announce
 
 http://213.163.67.56:1337/announce
 
-udp://213.163.67.56:1337/анонс
+udp://213.163.67.56:1337/Р°РЅРѕРЅСЃ
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -292,13 +292,13 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://tracker.bittor.pw:1337/анонс
+udp://tracker.bittor.pw:1337/Р°РЅРѕРЅСЃ
 
-udp://tracker.internetwarriors.net:1337/анонс
+udp://tracker.internetwarriors.net:1337/Р°РЅРѕРЅСЃ
 
-udp://tracker.opentrackr.org:1337/анонс
+udp://tracker.opentrackr.org:1337/Р°РЅРѕРЅСЃ
 
-udp://tracker.piratepublic.com:1337/анонс
+udp://tracker.piratepublic.com:1337/Р°РЅРѕРЅСЃ
 
 udp://leet-tracker.moe:1337/announce
 
@@ -318,11 +318,11 @@ http://mgtracker.org:2710/announce
 
 http://tracker.aletorrenty.pl:2710/announce
 
-udp://bt.xxx-tracker.com:2710/анонс
+udp://bt.xxx-tracker.com:2710/Р°РЅРѕРЅСЃ
 
-udp://mgtracker.org:2710/анонс
+udp://mgtracker.org:2710/Р°РЅРѕРЅСЃ
 
-udp://tracker.aletorrenty.pl:2710/анонс
+udp://tracker.aletorrenty.pl:2710/Р°РЅРѕРЅСЃ
 
 udp://bt.rutor.org:2710
 
@@ -334,7 +334,7 @@ http://www.filebase.ws:5678/announce
 
 http://tracker.kuroy.me:5944/announce
 
-udp://tracker.kuroy.me:5944/анонс
+udp://tracker.kuroy.me:5944/Р°РЅРѕРЅСЃ
 
 http://explodie.org:6969/announce
 
@@ -358,25 +358,25 @@ http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.torrentbay.to:6969/announce
 
-udp://explodie.org:6969/анонс
+udp://explodie.org:6969/Р°РЅРѕРЅСЃ
 
-udp://public.popcorn-tracker.org:6969/анонс
+udp://public.popcorn-tracker.org:6969/Р°РЅРѕРЅСЃ
 
-udp://shadowshq.yi.org:6969/анонс
+udp://shadowshq.yi.org:6969/Р°РЅРѕРЅСЃ
 
-udp://tracker.coppersurfer.tk:6969/анонс
+udp://tracker.coppersurfer.tk:6969/Р°РЅРѕРЅСЃ
 
-udp://tracker.flashtorrents.org:6969/анонс
+udp://tracker.flashtorrents.org:6969/Р°РЅРѕРЅСЃ
 
-udp://tracker.grepler.com:6969/анонс
+udp://tracker.grepler.com:6969/Р°РЅРѕРЅСЃ
 
-udp://tracker.leechers-paradise.org:6969/анонс
+udp://tracker.leechers-paradise.org:6969/Р°РЅРѕРЅСЃ
 
-udp://tracker.sktorrent.net:6969/анонс
+udp://tracker.sktorrent.net:6969/Р°РЅРѕРЅСЃ
 
-udp://tracker.skyts.net:6969/анонс
+udp://tracker.skyts.net:6969/Р°РЅРѕРЅСЃ
 
-udp://tracker.tiny-vps.com:6969/анонс
+udp://tracker.tiny-vps.com:6969/Р°РЅРѕРЅСЃ
 
 udp://exodus.desync.com:6969/announce
 
@@ -420,5 +420,5 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.filetracker.pl:8089/announce
 
-udp://tracker.filetracker.pl:8089/анонс
+udp://tracker.filetracker.pl:8089/Р°РЅРѕРЅСЃ
 
